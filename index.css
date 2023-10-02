@@ -1,0 +1,27 @@
+*{
+    font-family:"Lucida Console", Courier, monospace;
+}
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color:indianred;
+    font-weight:800;
+}
+
+table{
+    margin:0 auto;
+    border: 2px solid indianred;
+}
+
+td{
+    border-top:1px solid indianred;
+}
+
+thead{
+    text-align: center;
+    font-weight:bold;
+    background-color: darksalmon;
+}
